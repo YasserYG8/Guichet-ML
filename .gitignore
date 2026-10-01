@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment secrets
+.env
+.env.local
+
+# Testing & Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE configurations
+.vscode/
+.idea/
+MLAppliqué_Atelier_1_Inference_et_API.pdf
