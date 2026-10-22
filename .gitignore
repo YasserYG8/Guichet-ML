@@ -20,4 +20,7 @@ htmlcov/
 # IDE configurations
 .vscode/
 .idea/
+
+#workshop pdf
 MLAppliqué_Atelier_1_Inference_et_API.pdf
+MLAppliqué_Atelier_2_Choisir_un_Modele.pdf

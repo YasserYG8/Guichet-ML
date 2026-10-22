@@ -1,0 +1,73 @@
+id,texte,categorie,ambigu
+T001,Je paie pour un service qui ne marche pas depuis mardi.,technique,0
+T002,il me dit que mon mail existe deja alors que je men suis jamais servi,compte,0
+T003,"Vous avez mon ancienne adresse, celle de mon ancien logement.",compte,0
+T004,Je paie 40 euros pour un service que j'utilise deux fois par mois.,commercial,1
+T005,"Mon prenom est mal orthographie partout dans mon espace, y compris sur les documents que vous editez.",compte,0
+T006,stop,commercial,0
+T007,Vous faites quelque chose pour les etudiants ?,commercial,0
+T008,Je veux resilier car le service est trop souvent en panne.,commercial,1
+T009,"Facture impayee selon vous, mais mon releve bancaire montre bien le debit du 12 mars.",facturation,0
+T010,Les notifications ne s'affichent plus depuis que j'ai change de telephone.,technique,0
+T011,"On m'a appele pour une promotion, je voudrais en savoir plus avant d'accepter.",commercial,0
+T012,Est-ce que je peux essayer avant de m'engager ?,commercial,0
+T013,"Depuis la mise a jour d'hier, l'application se ferme toute seule au demarrage.",technique,0
+T014,Ma femme doit pouvoir consulter les documents aussi.,compte,0
+T015,Je voudrais que mon fils ait son propre acces sans voir mes documents.,compte,0
+T016,Ma facture de mars est de 89 euros alors que mon forfait est a 39 euros. Pouvez-vous m'expliquer la difference ?,facturation,0
+T017,Je pars 6 mois a l'etranger.,commercial,0
+T018,"Le systeme me deconnecte automatiquement au bout de deux minutes d'inactivite, c'est ingerable.",technique,0
+T019,"Je n'arrive pas a valider le formulaire, il me dit 'champ invalide' sans preciser lequel.",technique,0
+T020,"Apres la derniere version, l'affichage est casse sur petit ecran, les boutons se chevauchent.",technique,0
+T021,"Bonjour. Suite a la resiliation, il me reste un solde de 23,40 euros. Quand serai-je rembourse ?",facturation,0
+T022,"Je compare vos offres avec celles d'un concurrent, pouvez-vous me faire une proposition ?",commercial,0
+T023,Le code de verification par SMS n'arrive pas sur mon nouveau numero.,compte,0
+T024,C'est combien que vous m'avez pris en mars exactement,facturation,0
+T025,La recherche ne renvoie aucun resultat meme pour des mots que je sais presents.,technique,0
+T026,J'ai ete preleve deux fois ce mois-ci pour le meme abonnement. Je demande le remboursement du doublon.,facturation,0
+T027,L'export CSV genere un fichier vide alors que j'ai bien des donnees affichees.,technique,0
+T028,Mon acces est bloque depuis que j'ai tape trois fois a cote.,compte,0
+T029,"Bonjour, suite a mon demenagement j'ai rebranche le materiel comme indique dans la notice, tout est allume, les voyants sont verts, et pourtant rien ne se passe depuis quatre jours.",technique,0
+T030,je narrive plus a rentrer,compte,0
+T031,"Je souhaite recevoir un justificatif de paiement pour ma comptabilite, pour la periode janvier a juin.",facturation,0
+T032,Depuis hier 14h plus rien,technique,0
+T033,"Bonjour, j'ai change de numero de telephone le mois dernier suite a un changement d'operateur, et depuis je ne recois plus les codes que vous envoyez.",compte,0
+T034,Vous avez applique l'ancien tarif sur ma facture alors que j'ai change d'offre le mois dernier.,facturation,0
+T035,Comment on fait pour la double authentification,compte,0
+T036,"Le site m'affiche une erreur quand je veux voir le detail du montant, mais ce qui m'interesse c'est de savoir pourquoi c'est 89 euros.",facturation,0
+T037,"Quelqu'un d'autre utilise mes identifiants, j'ai vu des connexions etranges la nuit.",compte,0
+T038,J'ai paye ma facture il y a 5 jours mais elle apparait toujours comme impayee sur mon espace.,facturation,0
+T039,"Impossible de finaliser le reglement, la page se recharge en boucle.",technique,0
+T040,mon voisin paye moins cher que moi pour la meme chose,commercial,1
+T041,mon espace client saffiche pas,technique,0
+T042,C'est quoi la difference exactement entre vos deux formules,commercial,0
+T043,"Bonjour, nous sommes une association de douze benevoles et nous nous demandions si votre solution etait adaptee a une structure comme la notre, sachant que nous avons peu de moyens.",commercial,0
+T044,"L'application plante quand je telecharge ma facture, mais de toute facon je conteste le montant.",facturation,1
+T045,"J'ai deux comptes crees par erreur avec la meme adresse, peut-on les fusionner ?",compte,0
+T046,ca rame,technique,0
+T047,quand je clique sur valider il redemande le mot de passe en boucle,technique,0
+T048,Supprimez tout,compte,0
+T049,Vous m'avez envoye une relance. Mon compte indique pourtant que tout est regle.,facturation,0
+T050,Je n'ai jamais demande l'option premium et elle est sur ma note.,facturation,0
+T051,Vos serveurs sont down ?,technique,0
+T052,"Mon compte est bloque apres plusieurs tentatives de connexion, pouvez-vous le debloquer ?",compte,0
+T053,40 euros ??,facturation,0
+T054,"Suite a la panne de trois jours, quelle compensation est prevue sur ma prochaine echeance ?",facturation,0
+T055,"Bonjour, je n'ai pas recu ma facture du mois de fevrier par mail, pouvez-vous me la renvoyer ?",facturation,0
+T056,combien de temps je suis engage,commercial,0
+T057,"Bonjour, j'espere que vous allez bien. Je me permets de vous ecrire suite a un courrier recu la semaine derniere. Apres verification de mes releves des trois derniers mois, il apparait que la somme debitee ne correspond pas a ce qui figure sur mon contrat.",facturation,0
+T058,"Mon abonnement est a 19,99 et on m'a pris 24,99, je veux comprendre avant de decider si je reste.",facturation,1
+T059,"Je veux arreter a la fin de l'echeance en cours, sans frais.",commercial,0
+T060,"Bonsoir, j'aimerais etaler le paiement de ma facture sur deux mois, est-ce possible ?",facturation,0
+T061,"Le paiement en ligne echoue systematiquement au moment de valider, la page tourne dans le vide.",technique,1
+T062,"J'ai suivi toutes vos procedures trois fois, redemarre, reinstalle, change de navigateur. Toujours pareil.",technique,0
+T063,Le lien de reinitialisation arrive bien mais la page qu'il ouvre est blanche.,technique,0
+T064,jai changé doffre le 3 et on ma quand meme pris lancien prix,facturation,0
+T065,"Apres la panne de la semaine derniere, je pense partir chez un concurrent.",commercial,0
+T066,"On m'a promis un geste commercial de 15 euros le mois dernier, je ne le vois nulle part.",facturation,0
+T067,La qualite est pire depuis que je suis passe a l'offre superieure.,technique,1
+T068,Comment modifier mon adresse postale dans mon espace client ?,compte,0
+T069,RGPD : je demande l'ensemble des informations me concernant.,compte,0
+T070,Vous m'avez facture des frais de retard alors que le prelevement a echoue de votre cote.,facturation,0
+T071,remboursement,facturation,0
+T072,Le fichier que je telecharge fait 0 octet.,technique,0
