@@ -1,0 +1,102 @@
+{
+  "accuracy": 1.0,
+  "f1_macro": 1.0,
+  "invalides": 0.0,
+  "par_classe": {
+    "facturation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 5
+    },
+    "technique": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 5
+    },
+    "compte": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 5
+    },
+    "commercial": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 5
+    }
+  },
+  "etiquette": "image__qwen/qwen3.8-27b",
+  "canal": "image",
+  "modele": "qwen/qwen3.8-27b",
+  "langue": "-",
+  "ids": [
+    "I01",
+    "I02",
+    "I03",
+    "I04",
+    "I05",
+    "I06",
+    "I07",
+    "I08",
+    "I09",
+    "I10",
+    "I11",
+    "I12",
+    "I13",
+    "I14",
+    "I15",
+    "I16",
+    "I17",
+    "I18",
+    "I19",
+    "I20"
+  ],
+  "vrais": [
+    "technique",
+    "technique",
+    "technique",
+    "technique",
+    "technique",
+    "facturation",
+    "facturation",
+    "facturation",
+    "facturation",
+    "facturation",
+    "compte",
+    "compte",
+    "compte",
+    "compte",
+    "compte",
+    "commercial",
+    "commercial",
+    "commercial",
+    "commercial",
+    "commercial"
+  ],
+  "predits": [
+    "technique",
+    "technique",
+    "technique",
+    "technique",
+    "technique",
+    "facturation",
+    "facturation",
+    "facturation",
+    "facturation",
+    "facturation",
+    "compte",
+    "compte",
+    "compte",
+    "compte",
+    "compte",
+    "commercial",
+    "commercial",
+    "commercial",
+    "commercial",
+    "commercial"
+  ],
+  "latence_s": 3.47
+}

@@ -1,0 +1,466 @@
+{
+ "Je paie pour un service qui ne marche pas depuis mardi.": {
+  "categorie": "technique",
+  "latence_s": 0.94
+ },
+ "il me dit que mon mail existe déjà alors que je m'en suis jamais servi": {
+  "categorie": "compte",
+  "latence_s": 0.25
+ },
+ "Vous avez mon ancienne adresse, celle de mon ancien logement.": {
+  "categorie": "compte",
+  "latence_s": 0.16
+ },
+ "Je paie 40 euros pour un service que j'utilise deux fois par mois.": {
+  "categorie": "facturation",
+  "latence_s": 0.17
+ },
+ "Mon prénom est mal orthographié partout dans mon espace, y compris sur les documents que vous éditez.": {
+  "categorie": "compte",
+  "latence_s": 0.19
+ },
+ "stop": {
+  "categorie": "commercial",
+  "latence_s": 0.16
+ },
+ "Vous faites quelque chose pour les étudiants ?": {
+  "categorie": "commercial",
+  "latence_s": 0.19
+ },
+ "Je veux résilier car le service est trop souvent en panne.": {
+  "categorie": "commercial",
+  "latence_s": 0.18
+ },
+ "Facture impayée selon vous, mais mon relevé bancaire montre bien le débit du 12 mars.": {
+  "categorie": "facturation",
+  "latence_s": 0.42
+ },
+ "Les notifications ne s'affichent plus depuis que j'ai changé de téléphone.": {
+  "categorie": "technique",
+  "latence_s": 0.42
+ },
+ "On m'a appelé pour une promotion, je voudrais en savoir plus avant d'accepter.": {
+  "categorie": "commercial",
+  "latence_s": 0.3
+ },
+ "Est-ce que je peux essayer avant de m'engager ?": {
+  "categorie": "commercial",
+  "latence_s": 0.14
+ },
+ "Depuis la mise à jour d'hier, l'application se ferme toute seule au démarrage.": {
+  "categorie": "technique",
+  "latence_s": 0.34
+ },
+ "Ma femme doit pouvoir consulter les documents aussi.": {
+  "categorie": "compte",
+  "latence_s": 0.31
+ },
+ "Je voudrais que mon fils ait son propre accès sans voir mes documents.": {
+  "categorie": "compte",
+  "latence_s": 0.3
+ },
+ "Ma facture de mars est de 89 euros alors que mon forfait est à 39 euros. Pouvez-vous m'expliquer la différence ?": {
+  "categorie": "facturation",
+  "latence_s": 0.31
+ },
+ "Je pars 6 mois à l'étranger.": {
+  "categorie": "commercial",
+  "latence_s": 0.23
+ },
+ "Le système me déconnecte automatiquement au bout de deux minutes d'inactivité, c'est ingérable.": {
+  "categorie": "technique",
+  "latence_s": 0.26
+ },
+ "Je n'arrive pas à valider le formulaire, il me dit 'champ invalide' sans préciser lequel.": {
+  "categorie": "technique",
+  "latence_s": 0.59
+ },
+ "Après la dernière version, l'affichage est cassé sur petit écran, les boutons se chevauchent.": {
+  "categorie": "technique",
+  "latence_s": 0.27
+ },
+ "Bonjour. Suite à la résiliation, il me reste un solde de 23,40 euros. Quand serai-je remboursé ?": {
+  "categorie": "facturation",
+  "latence_s": 0.19
+ },
+ "Je compare vos offres avec celles d'un concurrent, pouvez-vous me faire une proposition ?": {
+  "categorie": "commercial",
+  "latence_s": 0.88
+ },
+ "Le code de vérification par SMS n'arrive pas sur mon nouveau numéro.": {
+  "categorie": "compte",
+  "latence_s": 0.17
+ },
+ "C'est combien que vous m'avez pris en mars exactement": {
+  "categorie": "facturation",
+  "latence_s": 1.05
+ },
+ "La recherche ne renvoie aucun résultat même pour des mots que je sais présents.": {
+  "categorie": "technique",
+  "latence_s": 0.27
+ },
+ "J'ai été prélevé deux fois ce mois-ci pour le même abonnement. Je demande le remboursement du doublon.": {
+  "categorie": "facturation",
+  "latence_s": 0.32
+ },
+ "L'export CSV génère un fichier vide alors que j'ai bien des données affichées.": {
+  "categorie": "technique",
+  "latence_s": 0.22
+ },
+ "Mon accès est bloqué depuis que j'ai tapé trois fois à côté.": {
+  "categorie": "compte",
+  "latence_s": 0.18
+ },
+ "Bonjour, suite à mon déménagement j'ai rebranché le matériel comme indiqué dans la notice, tout est allumé, les voyants sont verts, et pourtant rien ne se passe depuis quatre jours.": {
+  "categorie": "technique",
+  "latence_s": 0.17
+ },
+ "je n'arrive plus à rentrer": {
+  "categorie": "compte",
+  "latence_s": 0.27
+ },
+ "Je souhaite recevoir un justificatif de paiement pour ma comptabilité, pour la période janvier à juin.": {
+  "categorie": "facturation",
+  "latence_s": 0.17
+ },
+ "Depuis hier 14h plus rien": {
+  "categorie": "technique",
+  "latence_s": 0.68
+ },
+ "Bonjour, j'ai changé de numéro de téléphone le mois dernier suite à un changement d'opérateur, et depuis je ne reçois plus les codes que vous envoyez.": {
+  "categorie": "compte",
+  "latence_s": 0.17
+ },
+ "Vous avez appliqué l'ancien tarif sur ma facture alors que j'ai changé d'offre le mois dernier.": {
+  "categorie": "facturation",
+  "latence_s": 0.44
+ },
+ "Comment on fait pour la double authentification": {
+  "categorie": "compte",
+  "latence_s": 0.19
+ },
+ "Le site m'affiche une erreur quand je veux voir le détail du montant, mais ce qui m'intéresse c'est de savoir pourquoi c'est 89 euros.": {
+  "categorie": "facturation",
+  "latence_s": 0.22
+ },
+ "Quelqu'un d'autre utilise mes identifiants, j'ai vu des connexions étranges la nuit.": {
+  "categorie": "compte",
+  "latence_s": 0.17
+ },
+ "J'ai payé ma facture il y a 5 jours mais elle apparaît toujours comme impayée sur mon espace.": {
+  "categorie": "facturation",
+  "latence_s": 0.37
+ },
+ "Impossible de finaliser le règlement, la page se recharge en boucle.": {
+  "categorie": "facturation",
+  "latence_s": 0.19
+ },
+ "mon voisin paye moins cher que moi pour la même chose": {
+  "categorie": "commercial",
+  "latence_s": 0.22
+ },
+ "mon espace client s'affiche pas": {
+  "categorie": "compte",
+  "latence_s": 0.52
+ },
+ "C'est quoi la différence exactement entre vos deux formules": {
+  "categorie": "commercial",
+  "latence_s": 0.22
+ },
+ "Bonjour, nous sommes une association de douze bénévoles et nous nous demandions si votre solution était adaptée à une structure comme la nôtre, sachant que nous avons peu de moyens.": {
+  "categorie": "commercial",
+  "latence_s": 0.2
+ },
+ "L'application plante quand je télécharge ma facture, mais de toute façon je conteste le montant.": {
+  "categorie": "facturation",
+  "latence_s": 0.22
+ },
+ "J'ai deux comptes créés par erreur avec la même adresse, peut-on les fusionner ?": {
+  "categorie": "compte",
+  "latence_s": 0.22
+ },
+ "ça rame": {
+  "categorie": "technique",
+  "latence_s": 0.21
+ },
+ "quand je clique sur valider il redemande le mot de passe en boucle": {
+  "categorie": "technique",
+  "latence_s": 0.32
+ },
+ "Supprimez tout": {
+  "categorie": "compte",
+  "latence_s": 0.27
+ },
+ "Vous m'avez envoyé une relance. Mon compte indique pourtant que tout est réglé.": {
+  "categorie": "facturation",
+  "latence_s": 0.18
+ },
+ "Je n'ai jamais demandé l'option premium et elle est sur ma note.": {
+  "categorie": "facturation",
+  "latence_s": 0.15
+ },
+ "Vos serveurs sont down ?": {
+  "categorie": "technique",
+  "latence_s": 0.31
+ },
+ "Mon compte est bloqué après plusieurs tentatives de connexion, pouvez-vous le débloquer ?": {
+  "categorie": "compte",
+  "latence_s": 0.33
+ },
+ "40 euros ??": {
+  "categorie": "facturation",
+  "latence_s": 0.14
+ },
+ "Suite à la panne de trois jours, quelle compensation est prévue sur ma prochaine échéance ?": {
+  "categorie": "facturation",
+  "latence_s": 0.21
+ },
+ "Bonjour, je n'ai pas reçu ma facture du mois de février par mail, pouvez-vous me la renvoyer ?": {
+  "categorie": "facturation",
+  "latence_s": 0.23
+ },
+ "combien de temps je suis engagé": {
+  "categorie": "commercial",
+  "latence_s": 0.17
+ },
+ "Bonjour, j'espère que vous allez bien. Je me permets de vous écrire suite à un courrier reçu la semaine dernière. Après vérification de mes relevés des trois derniers mois, il apparaît que la somme débitée ne correspond pas à ce qui figure sur mon contrat.": {
+  "categorie": "facturation",
+  "latence_s": 0.2
+ },
+ "Mon abonnement est à 19,99 et on m'a pris 24,99, je veux comprendre avant de décider si je reste.": {
+  "categorie": "facturation",
+  "latence_s": 0.19
+ },
+ "Je veux arrêter à la fin de l'échéance en cours, sans frais.": {
+  "categorie": "commercial",
+  "latence_s": 0.17
+ },
+ "Bonsoir, j'aimerais étaler le paiement de ma facture sur deux mois, est-ce possible ?": {
+  "categorie": "facturation",
+  "latence_s": 0.18
+ },
+ "Le paiement en ligne échoue systématiquement au moment de valider, la page tourne dans le vide.": {
+  "categorie": "technique",
+  "latence_s": 0.17
+ },
+ "J'ai suivi toutes vos procédures trois fois, redémarré, réinstallé, changé de navigateur. Toujours pareil.": {
+  "categorie": "technique",
+  "latence_s": 0.15
+ },
+ "Le lien de réinitialisation arrive bien mais la page qu'il ouvre est blanche.": {
+  "categorie": "technique",
+  "latence_s": 0.21
+ },
+ "j'ai changé d'offre le 3 et on m'a quand même pris l'ancien prix": {
+  "categorie": "facturation",
+  "latence_s": 4.09
+ },
+ "Après la panne de la semaine dernière, je pense partir chez un concurrent.": {
+  "categorie": "commercial",
+  "latence_s": 0.15
+ },
+ "On m'a promis un geste commercial de 15 euros le mois dernier, je ne le vois nulle part.": {
+  "categorie": "facturation",
+  "latence_s": 0.16
+ },
+ "La qualité est pire depuis que je suis passé à l'offre supérieure.": {
+  "categorie": "technique",
+  "latence_s": 0.3
+ },
+ "Comment modifier mon adresse postale dans mon espace client ?": {
+  "categorie": "compte",
+  "latence_s": 0.2
+ },
+ "RGPD : je demande l'ensemble des informations me concernant.": {
+  "categorie": "compte",
+  "latence_s": 0.17
+ },
+ "Vous m'avez facturé des frais de retard alors que le prélèvement a échoué de votre côté.": {
+  "categorie": "facturation",
+  "latence_s": 0.23
+ },
+ "remboursement": {
+  "categorie": "facturation",
+  "latence_s": 0.26
+ },
+ "Le fichier que je télécharge fait 0 octet.": {
+  "categorie": "technique",
+  "latence_s": 0.21
+ },
+ "Il me dit que mon mail existe déjà alors que je m'en suis jamais servi.": {
+  "categorie": "compte",
+  "latence_s": 0.36
+ },
+ "Vous avez mon ancien adresse, celle de mon ancien logement.": {
+  "categorie": "compte",
+  "latence_s": 0.21
+ },
+ "Au revoir.": {
+  "categorie": "commercial",
+  "latence_s": 0.23
+ },
+ "Je veux résilier car le service est trop souvent panne.": {
+  "categorie": "commercial",
+  "latence_s": 0.25
+ },
+ "Factures impayées selon vous, même heureusement qu'elle montre bien le débit du 12 mars.": {
+  "categorie": "facturation",
+  "latence_s": 0.19
+ },
+ "Je voudrais que mon fils et son propre accessoire voient mes documents.": {
+  "categorie": "compte",
+  "latence_s": 0.2
+ },
+ "Je pars six mois à l'étranger.": {
+  "categorie": "commercial",
+  "latence_s": 0.19
+ },
+ "Le système déconnecte automatiquement au bout de 2 minutes d'inactivité, c'est ingérable.": {
+  "categorie": "technique",
+  "latence_s": 0.28
+ },
+ "Je n'arrive pas à valider le formulaire, il me dit « choix invalide » sans préciser lequel.": {
+  "categorie": "technique",
+  "latence_s": 0.21
+ },
+ "Bonjour. Suite à la résiliation, il me reste un solde de 23,40 euros. Quand serais-je m'en boussé ?": {
+  "categorie": "facturation",
+  "latence_s": 0.17
+ },
+ "Je compare vos offres avec celles d'un concurrent. Pouvez-vous me faire une proposition ?": {
+  "categorie": "commercial",
+  "latence_s": 0.46
+ },
+ "C'est combien que vous m'avez pris en masse exactement ?": {
+  "categorie": "facturation",
+  "latence_s": 0.25
+ },
+ "L'expansé est ce que je n'ai pas fait un affichier bidalon que j'ai bien dédonné l'affiché.": {
+  "categorie": "facturation",
+  "latence_s": 0.27
+ },
+ "Bonjour, suite à mon déménagement j'ai rebranché le matériel comme indiqué dans la notice, tout est allumé, les voyants sont verts, et pourtant rien ne se passe depuis 4 jours.": {
+  "categorie": "technique",
+  "latence_s": 0.3
+ },
+ "Je n'arrive plus à montrer.": {
+  "categorie": "technique",
+  "latence_s": 0.23
+ },
+ "Depuis hier 14 H plus rien.": {
+  "categorie": "technique",
+  "latence_s": 0.41
+ },
+ "Comment on fait pour la double authentication ?": {
+  "categorie": "compte",
+  "latence_s": 7.61
+ },
+ "Le site m'affiche une et même quand je me vois le détail du mouton, mais ce qui m'intéresse c'est de savoir pourquoi c'est 89 euros.": {
+  "categorie": "facturation",
+  "latence_s": 0.23
+ },
+ "J'ai payé ma facture il y a cinq jours mais elle apparaît toujours comme un payé sur mon espace.": {
+  "categorie": "facturation",
+  "latence_s": 0.57
+ },
+ "Impossible de finaliser le règlement, la page se recharge en bout.": {
+  "categorie": "facturation",
+  "latence_s": 0.38
+ },
+ "Mon voisin paye moins cher que moi pour la même chose.": {
+  "categorie": "commercial",
+  "latence_s": 0.18
+ },
+ "Mon espace client s'affiche pas.": {
+  "categorie": "compte",
+  "latence_s": 0.26
+ },
+ "C'est quoi la différence exactement entre vos deux formules ?": {
+  "categorie": "commercial",
+  "latence_s": 0.56
+ },
+ "Bonjour, nous sommes une association de 12 bénévoles et nous nous demandions si votre solution était adaptée à une structure comme la nôtre, sachant que nous avons peu de moyens.": {
+  "categorie": "commercial",
+  "latence_s": 0.27
+ },
+ "J'ai le groupe créé par erreur avec la même adresse, peut-on les fusionner ?": {
+  "categorie": "compte",
+  "latence_s": 0.23
+ },
+ "Ça ramme.": {
+  "categorie": "technique",
+  "latence_s": 0.18
+ },
+ "Quand je clique sur Valider il redemande le mot de passe en boucle.": {
+  "categorie": "technique",
+  "latence_s": 0.38
+ },
+ "Sous-titrage Société Radio-Canada": {
+  "categorie": "technique",
+  "latence_s": 1.14
+ },
+ "Je n'ai jamais demandé l'option premier, mais elle est sur ma note.": {
+  "categorie": "facturation",
+  "latence_s": 0.54
+ },
+ "Bofan m'eurent fou taul": {
+  "categorie": "compte",
+  "latence_s": 0.24
+ },
+ "Mon compte est bloqué après plusieurs tentatives de connexion. Pouvez-vous le débloquer ?": {
+  "categorie": "compte",
+  "latence_s": 0.22
+ },
+ "40 euros ?": {
+  "categorie": "facturation",
+  "latence_s": 0.31
+ },
+ "Combien de temps je suis engagé ?": {
+  "categorie": "commercial",
+  "latence_s": 0.23
+ },
+ "Bonjour, j'espère que vous allez bien. Je me permets de vous écrire suite à un courrier reçu la semaine dernière. Après vérification de mes remèdes des trois derniers mois, il apparaît que la somme des vitesses ne correspond pas à ce qui figure sur mon contrat.": {
+  "categorie": "facturation",
+  "latence_s": 0.24
+ },
+ "Mon abonnement est à 19,99 et on m'a pris 24,99. Je veux comprendre avant de décider si je reste.": {
+  "categorie": "facturation",
+  "latence_s": 0.28
+ },
+ "Pourquoi ? J'aimerais étaler le paiement de ma facture sur deux mois, est-ce possible ?": {
+  "categorie": "facturation",
+  "latence_s": 0.18
+ },
+ "J'ai suivi toutes vos procédures trois fois, redémarrer, réinstaller, changer de navigateur. Toujours pareil.": {
+  "categorie": "technique",
+  "latence_s": 0.41
+ },
+ "Le lien de réinitialisation arrive bien mais la page qui l'ouvre est blanche.": {
+  "categorie": "technique",
+  "latence_s": 0.25
+ },
+ "J'ai changé d'offre le 3 et on m'a quand même pris l'ancien prix.": {
+  "categorie": "facturation",
+  "latence_s": 0.24
+ },
+ "Où m'a promis un geste commercial de 15 euros de mois m'ernier, je ne le vois nulle part.": {
+  "categorie": "facturation",
+  "latence_s": 0.26
+ },
+ "Mgpv, je demande l'ensemble des informations me concernant.": {
+  "categorie": "compte",
+  "latence_s": 0.22
+ },
+ "Vous m'avez facturé des frais de retard alors que le prélèvement échoué de votre côté.": {
+  "categorie": "facturation",
+  "latence_s": 0.29
+ },
+ "Remboursement": {
+  "categorie": "facturation",
+  "latence_s": 0.19
+ },
+ "Le fichier que j'ai utilisé le meilleur oké.": {
+  "categorie": "technique",
+  "latence_s": 0.25
+ }
+}

@@ -1,0 +1,73 @@
+id,fichier,voix,texte_oral,categorie
+T001,voix/T001.mp3,mb-fr1,Je paie pour un service qui ne marche pas depuis mardi.,technique
+T002,voix/T002.mp3,mb-fr4,il me dit que mon mail existe déjà alors que je m'en suis jamais servi,compte
+T003,voix/T003.mp3,fr,"Vous avez mon ancienne adresse, celle de mon ancien logement.",compte
+T004,voix/T004.mp3,mb-fr1,Je paie 40 euros pour un service que j'utilise deux fois par mois.,commercial
+T005,voix/T005.mp3,mb-fr4,"Mon prénom est mal orthographié partout dans mon espace, y compris sur les documents que vous éditez.",compte
+T006,voix/T006.mp3,fr,stop,commercial
+T007,voix/T007.mp3,mb-fr1,Vous faites quelque chose pour les étudiants ?,commercial
+T008,voix/T008.mp3,mb-fr4,Je veux résilier car le service est trop souvent en panne.,commercial
+T009,voix/T009.mp3,fr,"Facture impayée selon vous, mais mon relevé bancaire montre bien le débit du 12 mars.",facturation
+T010,voix/T010.mp3,mb-fr1,Les notifications ne s'affichent plus depuis que j'ai changé de téléphone.,technique
+T011,voix/T011.mp3,mb-fr4,"On m'a appelé pour une promotion, je voudrais en savoir plus avant d'accepter.",commercial
+T012,voix/T012.mp3,fr,Est-ce que je peux essayer avant de m'engager ?,commercial
+T013,voix/T013.mp3,mb-fr1,"Depuis la mise à jour d'hier, l'application se ferme toute seule au démarrage.",technique
+T014,voix/T014.mp3,mb-fr4,Ma femme doit pouvoir consulter les documents aussi.,compte
+T015,voix/T015.mp3,fr,Je voudrais que mon fils ait son propre accès sans voir mes documents.,compte
+T016,voix/T016.mp3,mb-fr1,Ma facture de mars est de 89 euros alors que mon forfait est à 39 euros. Pouvez-vous m'expliquer la différence ?,facturation
+T017,voix/T017.mp3,mb-fr4,Je pars 6 mois à l'étranger.,commercial
+T018,voix/T018.mp3,fr,"Le système me déconnecte automatiquement au bout de deux minutes d'inactivité, c'est ingérable.",technique
+T019,voix/T019.mp3,mb-fr1,"Je n'arrive pas à valider le formulaire, il me dit 'champ invalide' sans préciser lequel.",technique
+T020,voix/T020.mp3,mb-fr4,"Après la dernière version, l'affichage est cassé sur petit écran, les boutons se chevauchent.",technique
+T021,voix/T021.mp3,fr,"Bonjour. Suite à la résiliation, il me reste un solde de 23,40 euros. Quand serai-je remboursé ?",facturation
+T022,voix/T022.mp3,mb-fr1,"Je compare vos offres avec celles d'un concurrent, pouvez-vous me faire une proposition ?",commercial
+T023,voix/T023.mp3,mb-fr4,Le code de vérification par SMS n'arrive pas sur mon nouveau numéro.,compte
+T024,voix/T024.mp3,fr,C'est combien que vous m'avez pris en mars exactement,facturation
+T025,voix/T025.mp3,mb-fr1,La recherche ne renvoie aucun résultat même pour des mots que je sais présents.,technique
+T026,voix/T026.mp3,mb-fr4,J'ai été prélevé deux fois ce mois-ci pour le même abonnement. Je demande le remboursement du doublon.,facturation
+T027,voix/T027.mp3,fr,L'export CSV génère un fichier vide alors que j'ai bien des données affichées.,technique
+T028,voix/T028.mp3,mb-fr1,Mon accès est bloqué depuis que j'ai tapé trois fois à côté.,compte
+T029,voix/T029.mp3,mb-fr4,"Bonjour, suite à mon déménagement j'ai rebranché le matériel comme indiqué dans la notice, tout est allumé, les voyants sont verts, et pourtant rien ne se passe depuis quatre jours.",technique
+T030,voix/T030.mp3,fr,je n'arrive plus à rentrer,compte
+T031,voix/T031.mp3,mb-fr1,"Je souhaite recevoir un justificatif de paiement pour ma comptabilité, pour la période janvier à juin.",facturation
+T032,voix/T032.mp3,mb-fr4,Depuis hier 14h plus rien,technique
+T033,voix/T033.mp3,fr,"Bonjour, j'ai changé de numéro de téléphone le mois dernier suite à un changement d'opérateur, et depuis je ne reçois plus les codes que vous envoyez.",compte
+T034,voix/T034.mp3,mb-fr1,Vous avez appliqué l'ancien tarif sur ma facture alors que j'ai changé d'offre le mois dernier.,facturation
+T035,voix/T035.mp3,mb-fr4,Comment on fait pour la double authentification,compte
+T036,voix/T036.mp3,fr,"Le site m'affiche une erreur quand je veux voir le détail du montant, mais ce qui m'intéresse c'est de savoir pourquoi c'est 89 euros.",facturation
+T037,voix/T037.mp3,mb-fr1,"Quelqu'un d'autre utilise mes identifiants, j'ai vu des connexions étranges la nuit.",compte
+T038,voix/T038.mp3,mb-fr4,J'ai payé ma facture il y a 5 jours mais elle apparaît toujours comme impayée sur mon espace.,facturation
+T039,voix/T039.mp3,fr,"Impossible de finaliser le règlement, la page se recharge en boucle.",technique
+T040,voix/T040.mp3,mb-fr1,mon voisin paye moins cher que moi pour la même chose,commercial
+T041,voix/T041.mp3,mb-fr4,mon espace client s'affiche pas,technique
+T042,voix/T042.mp3,fr,C'est quoi la différence exactement entre vos deux formules,commercial
+T043,voix/T043.mp3,mb-fr1,"Bonjour, nous sommes une association de douze bénévoles et nous nous demandions si votre solution était adaptée à une structure comme la nôtre, sachant que nous avons peu de moyens.",commercial
+T044,voix/T044.mp3,mb-fr4,"L'application plante quand je télécharge ma facture, mais de toute façon je conteste le montant.",facturation
+T045,voix/T045.mp3,fr,"J'ai deux comptes créés par erreur avec la même adresse, peut-on les fusionner ?",compte
+T046,voix/T046.mp3,mb-fr1,ça rame,technique
+T047,voix/T047.mp3,mb-fr4,quand je clique sur valider il redemande le mot de passe en boucle,technique
+T048,voix/T048.mp3,fr,Supprimez tout,compte
+T049,voix/T049.mp3,mb-fr1,Vous m'avez envoyé une relance. Mon compte indique pourtant que tout est réglé.,facturation
+T050,voix/T050.mp3,mb-fr4,Je n'ai jamais demandé l'option premium et elle est sur ma note.,facturation
+T051,voix/T051.mp3,fr,Vos serveurs sont down ?,technique
+T052,voix/T052.mp3,mb-fr1,"Mon compte est bloqué après plusieurs tentatives de connexion, pouvez-vous le débloquer ?",compte
+T053,voix/T053.mp3,mb-fr4,40 euros ??,facturation
+T054,voix/T054.mp3,fr,"Suite à la panne de trois jours, quelle compensation est prévue sur ma prochaine échéance ?",facturation
+T055,voix/T055.mp3,mb-fr1,"Bonjour, je n'ai pas reçu ma facture du mois de février par mail, pouvez-vous me la renvoyer ?",facturation
+T056,voix/T056.mp3,mb-fr4,combien de temps je suis engagé,commercial
+T057,voix/T057.mp3,fr,"Bonjour, j'espère que vous allez bien. Je me permets de vous écrire suite à un courrier reçu la semaine dernière. Après vérification de mes relevés des trois derniers mois, il apparaît que la somme débitée ne correspond pas à ce qui figure sur mon contrat.",facturation
+T058,voix/T058.mp3,mb-fr1,"Mon abonnement est à 19,99 et on m'a pris 24,99, je veux comprendre avant de décider si je reste.",facturation
+T059,voix/T059.mp3,mb-fr4,"Je veux arrêter à la fin de l'échéance en cours, sans frais.",commercial
+T060,voix/T060.mp3,fr,"Bonsoir, j'aimerais étaler le paiement de ma facture sur deux mois, est-ce possible ?",facturation
+T061,voix/T061.mp3,mb-fr1,"Le paiement en ligne échoue systématiquement au moment de valider, la page tourne dans le vide.",technique
+T062,voix/T062.mp3,mb-fr4,"J'ai suivi toutes vos procédures trois fois, redémarré, réinstallé, changé de navigateur. Toujours pareil.",technique
+T063,voix/T063.mp3,fr,Le lien de réinitialisation arrive bien mais la page qu'il ouvre est blanche.,technique
+T064,voix/T064.mp3,mb-fr1,j'ai changé d'offre le 3 et on m'a quand même pris l'ancien prix,facturation
+T065,voix/T065.mp3,mb-fr4,"Après la panne de la semaine dernière, je pense partir chez un concurrent.",commercial
+T066,voix/T066.mp3,fr,"On m'a promis un geste commercial de 15 euros le mois dernier, je ne le vois nulle part.",facturation
+T067,voix/T067.mp3,mb-fr1,La qualité est pire depuis que je suis passé à l'offre supérieure.,technique
+T068,voix/T068.mp3,mb-fr4,Comment modifier mon adresse postale dans mon espace client ?,compte
+T069,voix/T069.mp3,fr,RGPD : je demande l'ensemble des informations me concernant.,compte
+T070,voix/T070.mp3,mb-fr1,Vous m'avez facturé des frais de retard alors que le prélèvement a échoué de votre côté.,facturation
+T071,voix/T071.mp3,mb-fr4,remboursement,facturation
+T072,voix/T072.mp3,fr,Le fichier que je télécharge fait 0 octet.,technique
